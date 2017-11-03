@@ -1,0 +1,6 @@
+User lLogged in at Mon Oct 24 15:42:10 2016
+
+Deposited $30 to Chequing account
+User jLogged in at Mon Oct 24 15:42:28 2016
+
+Password has been changed to j
